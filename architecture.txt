@@ -1,0 +1,6 @@
+Program Architecture
+
+Mac and Linux: /etc/hosts
+
+Windows: c:\Windows\System32\drivers\etc\hosts" #for windows
+
